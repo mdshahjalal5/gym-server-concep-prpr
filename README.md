@@ -19,7 +19,7 @@
 
 ## 📂 Project Structure
 
-```treeview file structure
+```tree
 .
 ├── bun.lock
 ├── package.json
